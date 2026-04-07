@@ -31,7 +31,7 @@ Ottar N Bj&#248;rnstad
 
 Citation information can be found with `citation("shinySIR")`.
 
-###### Getting help
+###### AYUDA 
 
 If you encounter any bugs related to this package please contact the author directly. Additional descriptions of the mathematical theory and package functionality can be found in the vignette. Further details on the mathematical theory can also be found in the references listed below [1-4].
 
